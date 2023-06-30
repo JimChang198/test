@@ -11,3 +11,7 @@
 
 # Copy Current Branch & (Create + Switch) to the new branch:
 	git checkout -b new
+
+# Get Changes from master branch to new branch
+	git merge master
+	
